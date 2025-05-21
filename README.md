@@ -56,6 +56,9 @@ LIMIT 5;
   3. Health - 63138 reactions
   4. Technology - 63035 reactions
   5. Food - 61598 reactions
+ 
+  ![Top 5 Categories](https://github.com/user-attachments/assets/77e26b1b-2e8f-4402-ab2e-cab068bb146e)
+
 ### Recommendations 
 - The management of Social Buzz should channel more resources and focus them towards these top 5 categories to ensure; 
 1. Better and more appealing content
